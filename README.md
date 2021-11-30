@@ -15,10 +15,11 @@ Link: (https://github.com/mobcom-group/homework3-server)
 Link: (https://github.com/mobcom-group/homework3-android)
 
 ## Video Link
+[Chat Application using FCM Demo App](https://youtu.be/BrDT6BrAUwQ)
 
 ## App Features
-1. Send chat to subscribed topic
-2. Send image
+1. Send and receive chat to subscribed topic
+2. Send and receive image
 3. Sender and receiver difference
 4. Display message date and time
 
