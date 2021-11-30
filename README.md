@@ -4,12 +4,15 @@
 2. Zaidan Pratama (1313618013)
 3. Muhammad Ardani (1313618014)
 
+## App Debug APK
+[AppDebugAPK](https://github.com/mobcom-group/homework3-submission/blob/main/app-debug.apk)
+
 ## Source Code
 ### Server Source Code
-Link: [https://github.com/mobcom-group/homework3-server]
+Link: (https://github.com/mobcom-group/homework3-server)
 
 ### Android Source Code
-Link: [https://github.com/mobcom-group/homework3-android]
+Link: (https://github.com/mobcom-group/homework3-android)
 
 ## Video Link
 
