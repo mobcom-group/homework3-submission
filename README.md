@@ -23,4 +23,5 @@ Link: (https://github.com/mobcom-group/homework3-android)
 4. Display message date and time
 
 ## Screenshots
-
+![Screenshot 1](https://github.com/mobcom-group/homework3-submission/blob/main/ss1.png)
+![Screenshot 2](https://github.com/mobcom-group/homework3-submission/blob/main/ss2.png)
